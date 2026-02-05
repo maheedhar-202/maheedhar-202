@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Playwright with TypeScript, integrated with AI agents.<br>Open to collaborating with QA engineers and AI enthusiasts to build intelligent automation solutions<br>I am seeking guidance on implementing AI-driven automation using Playwright and TypeScript or Selenium with Java<br>
+**I am currently working on Playwright with TypeScript, integrated with AI agents.**<br>**Open to collaborating with QA engineers and AI enthusiasts to build intelligent automation solutions**<br>**I am seeking guidance on implementing AI-driven automation using Playwright and TypeScript or Selenium with Java**<br>
 
 
 ## 🌐 Socials:
